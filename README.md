@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/siddhisalunkhe_" target="blank"><img src="https://img.shields.io/twitter/follow/siddhisalunkhe_?logo=twitter&style=for-the-badge" alt="siddhisalunkhe_" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, Hibernate**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java, mysql**
+- 💬 Ask me about **HTML, CSS, Javascript, Java,JDBC, Hibernate, mysql**
 
 - 📫 How to reach me **siddhisalunkhe23@gmail.com**
 
