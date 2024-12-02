@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Siddhi Salunkhe.</h1>
-<h3 align="center">A passionate Web developer.</h3>
+<h3 align="center">A Passionate Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhisalunkhe1&label=Profile%20views&color=0e75b6&style=flat" alt="siddhisalunkhe1" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddhisalunkhe_" target="blank"><img src="https://img.shields.io/twitter/follow/siddhisalunkhe_?logo=twitter&style=for-the-badge" alt="siddhisalunkhe_" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java,JDBC, Hibernate, mysql**
 
